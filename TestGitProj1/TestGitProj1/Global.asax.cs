@@ -14,5 +14,6 @@ namespace TestGitProj1
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
         }
+
     }
 }
